@@ -2,7 +2,12 @@
 data: 2026-01-29
 disciplina: Desenvolvimento de Serviços com Spring Boot
 professor: Leonardo Silva da Gloria
-topicos: [Java Moderno, Records, Optionals, Streams API, Lambdas]
+topicos:
+  - Java Moderno
+  - Records
+  - Optionals
+  - Streams API
+  - Lambdas
 ---
 # 🎓 Resumo da Aula: Java Moderno no Spring Boot
 
