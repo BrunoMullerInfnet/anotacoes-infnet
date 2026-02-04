@@ -3,6 +3,10 @@ data: 2026-02-02
 disciplina: Design Patterns e Domain-Driven Design (DDD) com Java
 professor: Luiz Maia
 assunto: "[SOLID, Interfaces, Acoplamento, Coesão, Boas Práticas]"
+tags:
+  - solid
+  - interfaces
+  - acomplamento
 ---
 ---
 # 🎓 Aula 03: Qualidade de Software e SOLID Completo
